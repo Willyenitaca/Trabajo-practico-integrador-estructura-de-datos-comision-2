@@ -1,0 +1,201 @@
+﻿id,juego,genero,jugadores_min,jugadores_max,dificultad,duracion,sistema,popularidad
+1,Dungeons & Dragons 5e,Fantasía,3,6,Media,2-4 h,d20,10
+2,Pathfinder 2e,Fantasía,3,6,Alta,3-5 h,d20,9
+3,Call of Cthulhu,Terror,2,6,Media,2-4 h,Basic Roleplaying,9
+4,Cyberpunk RED,Ciencia ficción,3,6,Media,3-5 h,Interlock,8
+5,Vampire: The Masquerade,Terror / Drama,3,6,Media,3-5 h,Storyteller,9
+6,Warhammer Fantasy Roleplay,Fantasía oscura,3,5,Alta,3-4 h,d100,8
+7,Shadowrun,Ciencia ficción / Fantasía,3,6,Alta,3-5 h,Shadowrun,8
+8,Blades in the Dark,Fantasía / Crimen,3,5,Media,2-3 h,Forged in the Dark,8
+9,Dungeon World,Fantasía,2,5,Baja,2-3 h,Powered by the Apocalypse,7
+10,Fate Core,Genérico,2,6,Media,2-4 h,Fate,8
+11,Savage Worlds,Aventuras,3,6,Media,2-4 h,Savage Worlds,8
+12,Mork Borg,Fantasía oscura,2,5,Media,2-3 h,Mork Borg,7
+13,Alien RPG,Ciencia ficción / Terror,3,5,Media,2-4 h,Year Zero Engine,8
+14,Cyberpunk 2020,Ciencia ficción,3,6,Alta,3-5 h,Interlock,7
+15,Starfinder,Ciencia ficción / Fantasía,3,6,Alta,3-5 h,d20,7
+16,13th Age,Fantasía,3,6,Media,3-5 h,d20,7
+17,7th Sea,Aventuras,3,7,Media,3-5 h,Roll and Keep,7
+18,Achtung! Cthulhu,Terror / Guerra,3,6,Media,2-4 h,2d20,6
+19,Alien RPG: Chariot of the Gods,Ciencia ficción / Terror,3,5,Media,2-4 h,Year Zero Engine,7
+20,Apocalypse World,Ciencia ficción / Postapocalíptico,3,5,Media,2-3 h,PbtA,7
+21,Avatar Legends,Fantasía / Aventuras,3,6,Media,2-4 h,PbtA,8
+22,Band of Blades,Fantasía oscura / Guerra,3,5,Alta,3-4 h,Forged in the Dark,7
+23,Basic Fantasy RPG,Fantasía,2,6,Baja,2-4 h,d20,7
+24,Black Crusade,Ciencia ficción / Oscuro,3,6,Alta,3-5 h,Warhammer 40K,6
+25,Bluebeard's Bride,Terror,3,5,Media,2-3 h,Powered by the Apocalypse,6
+26,Brindlewood Bay,Misterio,2,5,Baja,2-3 h,PbtA,7
+27,Broken Compass,Aventuras,2,6,Media,2-4 h,Broken Compass,6
+28,Call of Cthulhu 7e,Terror,2,6,Media,2-4 h,Basic Roleplaying,9
+29,Cairn,Fantasía,2,5,Baja,2-3 h,OSR,7
+30,Coriolis,Ciencia ficción,3,5,Media,3-5 h,Year Zero Engine,7
+31,Cortex Prime,Genérico,2,8,Alta,2-4 h,Cortex,7
+32,Cthulhu Dark,Terror,2,6,Baja,1-3 h,Cthulhu Dark,7
+33,Delta Green,Terror / Espionaje,3,6,Media,2-4 h,BRP,8
+34,Doctor Who RPG,Ciencia ficción / Aventuras,2,6,Media,2-4 h,Cubicle 7,7
+35,Dread,Terror,2,6,Baja,2-3 h,Jenga,8
+36,Dresden Files RPG,Fantasía urbana,3,6,Media,3-5 h,Fate,7
+37,Earthdawn,Fantasía,3,6,Alta,3-5 h,Earthdawn,6
+38,Electric Bastionland,Fantasía / Weird,2,6,Baja,2-3 h,NSR,7
+39,Fabula Ultima,Fantasía / JRPG,3,5,Media,3-5 h,Fabula Ultima,8
+40,Fallout RPG,Postapocalíptico,2,6,Media,2-4 h,2d20,8
+41,Forbidden Lands,Fantasía / Supervivencia,3,5,Media,3-5 h,Year Zero Engine,8
+42,Genesys,Genérico,2,6,Media,2-4 h,Genesys,7
+43,Gloomhaven RPG,Fantasía,2,4,Alta,3-5 h,Gloomhaven,7
+44,Heart: The City Beneath,Fantasía oscura,2,5,Media,2-4 h,Resistance,7
+45,Ironsworn,Fantasía,1,4,Media,1-3 h,Ironsworn,9
+46,Ironsworn: Starforged,Ciencia ficción,1,4,Media,1-3 h,Ironsworn,8
+47,Jorvik,Histórico / Aventuras,2,6,Media,2-4 h,Propio,5
+48,Kids on Bikes,Misterio / Aventuras,2,6,Baja,2-4 h,Boneyard,8
+49,Knave,Fantasía,2,6,Baja,2-4 h,OSR,7
+50,Lancer,Ciencia ficción / Mechas,3,6,Alta,3-5 h,Lancer,8
+51,Lasers & Feelings,Ciencia ficción,2,6,Baja,1-2 h,Propio,8
+52,Legend of the Five Rings,Fantasía / Drama,3,6,Alta,3-5 h,Roll and Keep,8
+53,Masks,Superhéroes,3,6,Media,2-4 h,PbtA,8
+54,Mausritter,Fantasía,2,5,Baja,2-3 h,NSR,8
+55,Mutants & Masterminds,Superhéroes,2,6,Alta,3-5 h,d20,8
+56,Numenera,Ciencia ficción / Fantasía,3,6,Media,2-4 h,Cypher System,7
+57,Old-School Essentials,Fantasía,2,6,Media,2-4 h,OSR,9
+58,Paranoia,Ciencia ficción / Comedia,3,6,Media,2-4 h,Paranoia,8
+59,Pendragon,Histórico / Fantasía,3,6,Alta,3-5 h,Pendragon,7
+60,Quest,Fantasía,2,6,Baja,2-4 h,Quest,7
+61,Root RPG,Fantasía / Aventuras,3,6,Media,2-4 h,PbtA,7
+62,RuneQuest,Fantasía,2,6,Alta,3-5 h,BRP,8
+63,Scum and Villainy,Ciencia ficción / Crimen,3,5,Media,2-4 h,Forged in the Dark,8
+64,Star Trek Adventures,Ciencia ficción,3,6,Media,2-4 h,2d20,8
+65,Star Wars RPG,Ciencia ficción,3,6,Media,3-5 h,Genesys,9
+66,The One Ring,Fantasía,2,6,Media,3-5 h,Year Zero Engine,8
+67,The Sprawl,Ciencia ficción / Cyberpunk,2,5,Media,2-4 h,PbtA,7
+68,Traveller,Ciencia ficción,2,6,Alta,3-5 h,2d6,9
+69,Vaesen,Terror / Misterio,2,6,Media,2-4 h,Year Zero Engine,8
+70,"Warhammer 40,000: Imperium Maledictum",Ciencia ficción / Terror,2,6,Alta,3-5 h,d100,7
+71,Werewolf: The Apocalypse,Terror / Fantasía urbana,3,6,Media,3-5 h,Storyteller,8
+72,Mage: The Ascension,Fantasía urbana,3,6,Alta,3-5 h,Storyteller,8
+73,Changeling: The Dreaming,Fantasía urbana,3,6,Media,3-5 h,Storyteller,7
+74,Werewolf: The Forsaken,Terror / Fantasía urbana,3,6,Media,3-5 h,Storytelling,7
+75,Hunter: The Reckoning,Terror,3,6,Media,3-5 h,Storytelling,7
+76,Mage: The Awakening,Fantasía urbana,3,6,Alta,3-5 h,Storytelling,7
+77,Cthulhu Invictus,Terror / Histórico,2,6,Media,2-4 h,BRP,6
+78,Eclipse Phase,Ciencia ficción / Horror,2,6,Alta,3-5 h,Eclipse Phase,7
+79,Eberron: Rising from the Last War,Fantasía / Steampunk,3,6,Media,3-5 h,d20,8
+80,Ravenloft,Fantasía / Terror,3,6,Media,3-5 h,d20,9
+81,Spelljammer,Fantasía / Ciencia ficción,3,6,Media,3-5 h,d20,8
+82,Dragonlance,Fantasía,3,6,Media,3-5 h,d20,8
+83,Greyhawk,Fantasía,3,6,Media,3-6 h,d20,8
+84,Planescape,Fantasía / Multiverso,3,6,Media,3-5 h,d20,9
+85,Strixhaven,Fantasía / Academia,3,6,Media,2-4 h,d20,8
+86,The Wild Beyond the Witchlight,Fantasía,3,6,Media,3-5 h,d20,8
+87,Curse of Strahd,Fantasía / Terror,3,6,Media,3-5 h,d20,10
+88,Waterdeep: Dragon Heist,Fantasía / Intriga,3,6,Media,3-5 h,d20,9
+89,Tomb of Annihilation,Fantasía / Supervivencia,3,6,Media,3-5 h,d20,9
+90,Icewind Dale,Fantasía / Supervivencia,3,6,Media,3-5 h,d20,8
+91,Descent into Avernus,Fantasía / Infernal,3,6,Media,3-5 h,d20,8
+92,Ghosts of Saltmarsh,Fantasía / Marítimo,3,6,Media,3-5 h,d20,8
+93,Storm King's Thunder,Fantasía,3,6,Media,3-5 h,d20,9
+94,Out of the Abyss,Fantasía / Oscuro,3,6,Media,3-5 h,d20,8
+95,Princes of the Apocalypse,Fantasía,3,6,Media,3-5 h,d20,8
+96,Hoard of the Dragon Queen,Fantasía,3,6,Media,3-5 h,d20,8
+97,Lost Mine of Phandelver,Fantasía,3,6,Baja,2-4 h,d20,10
+98,Dragon Heist Remix,Fantasía / Intriga,3,6,Media,3-5 h,d20,7
+99,Dungeon Crawl Classics,Fantasía,3,6,Media,2-4 h,d20,8
+100,Shadow of the Demon Lord,Fantasía oscura,3,6,Media,2-4 h,d20,8
+101,Shadow of the Weird Wizard,Fantasía,3,6,Media,2-4 h,d20,7
+102,13th Age Glorantha,Fantasía,3,6,Alta,3-5 h,d20,6
+103,Symbaroum,Fantasía oscura,2,6,Media,3-5 h,d20,8
+104,The Black Hack,Fantasía,2,6,Baja,2-4 h,OSR,7
+105,Whitehack,Fantasía,2,6,Media,2-4 h,OSR,6
+106,Into the Odd,Fantasía / Weird,2,6,Baja,2-3 h,NSR,8
+107,Electric Bastionland RPG,Fantasía / Weird,2,6,Baja,2-3 h,NSR,7
+108,Mothership,Ciencia ficción / Terror,2,6,Media,2-4 h,Mothership,9
+109,Death in Space,Ciencia ficción / Terror,2,6,Media,2-4 h,Death in Space,7
+110,Orbital Blues,Ciencia ficción / Western,2,5,Media,2-4 h,Orbital Blues,7
+111,Coriolis: The Third Horizon,Ciencia ficción,3,5,Media,3-5 h,Year Zero Engine,8
+112,Mutant: Year Zero,Postapocalíptico,3,5,Media,3-5 h,Year Zero Engine,8
+113,Tales from the Loop,Ciencia ficción / Misterio,2,6,Baja,2-4 h,Year Zero Engine,8
+114,Things from the Flood,Ciencia ficción / Misterio,2,6,Media,2-4 h,Year Zero Engine,7
+115,Twilight: 2000,Postapocalíptico / Guerra,2,6,Alta,3-5 h,Year Zero Engine,7
+116,Coriolis: Emissary Lost,Ciencia ficción,3,5,Media,3-5 h,Year Zero Engine,6
+117,Forbidden Lands: Bitter Reach,Fantasía / Supervivencia,3,5,Media,3-5 h,Year Zero Engine,7
+118,Tales from the Yawning Portal,Fantasía,3,6,Media,3-5 h,d20,8
+119,Dungeon of the Mad Mage,Fantasía / Mazmorras,3,6,Media,3-5 h,d20,9
+120,Acquisitions Incorporated,Fantasía / Comedia,3,6,Media,2-4 h,d20,7
+121,Journeys Through the Radiant Citadel,Fantasía,3,6,Media,2-4 h,d20,8
+122,Candlekeep Mysteries,Fantasía / Misterio,3,6,Media,2-4 h,d20,8
+123,Keys from the Golden Vault,Fantasía / Heist,3,6,Media,2-4 h,d20,8
+124,Van Richten's Guide to Ravenloft,Terror / Fantasía,3,6,Media,3-5 h,d20,9
+125,Big Eyes Small Mouth,Anime / Fantasía,2,6,Media,2-4 h,Tri-Stat,7
+126,BESM 4e,Anime / Genérico,2,6,Media,2-4 h,Tri-Stat,6
+127,Exalted,Fantasía / Mitos,3,6,Alta,3-5 h,Storyteller,8
+128,Scion,Mitos / Fantasía,3,6,Alta,3-5 h,Storypath,7
+129,Trinity Continuum,Ciencia ficción / Acción,3,6,Media,3-5 h,Storypath,6
+130,They Came from Beyond the Grave,Terror / Comedia,3,6,Media,2-4 h,Storypath,6
+131,Pugmire,Fantasía / Animales,3,6,Baja,2-4 h,Open Game,7
+132,Mouse Guard,Fantasía / Animales,2,5,Media,2-4 h,Burning Wheel,8
+133,Burning Wheel,Fantasía,3,5,Alta,3-5 h,Burning Wheel,8
+134,Torchbearer,Fantasía / Supervivencia,2,5,Alta,3-5 h,Burning Wheel,7
+135,Kingdom,Drama / Fantasía,2,5,Media,2-4 h,Belonging Outside Belonging,6
+136,Microscope,Historia / Narrativa,2,5,Baja,1-3 h,Propio,8
+137,Kingdom Death RPG,Terror / Supervivencia,2,4,Alta,3-5 h,Propio,6
+138,Alice is Missing,Misterio / Terror,3,5,Baja,1-2 h,Propio,9
+139,Fiasco,Comedia / Drama,3,5,Baja,2-3 h,Propio,9
+140,Ten Candles,Terror,2,6,Media,2-3 h,Propio,8
+141,Dread: The RPG,Terror,2,6,Baja,2-3 h,Jenga,8
+142,Kids on Brooms,Fantasía / Academia,2,6,Baja,2-4 h,Boneyard,8
+143,Good Society,Drama / Romance,2,6,Media,2-4 h,Good Society,7
+144,Wanderhome,Fantasía / Viajes,2,6,Baja,2-4 h,Belonging Outside Belonging,8
+145,Thirsty Sword Lesbians,Fantasía / Drama,2,6,Media,2-4 h,PbtA,8
+146,Monster of the Week,Terror / Misterio,2,5,Baja,2-4 h,PbtA,9
+147,Urban Shadows,Fantasía urbana,3,5,Media,2-4 h,PbtA,8
+148,The Between,Terror / Misterio,2,5,Media,2-4 h,PbtA,7
+149,Public Access,Misterio / Terror,2,5,Media,2-4 h,PbtA,7
+150,Apocalypse Keys,Superhéroes / Terror,2,5,Media,2-4 h,PbtA,7
+151,Girl by Moonlight,Fantasía / Drama,2,5,Media,2-4 h,Forged in the Dark,7
+152,Beam Saber,Ciencia ficción / Mechas,3,5,Media,2-4 h,Forged in the Dark,7
+153,A Fistful of Darkness,Western / Fantasía,3,5,Media,2-4 h,Forged in the Dark,6
+154,Wicked Ones,Fantasía / Villanos,2,6,Media,2-4 h,Forged in the Dark,7
+155,Slugblaster,Aventuras / Fantasía,2,6,Baja,2-4 h,Forged in the Dark,7
+156,Quest RPG,Fantasía,2,6,Baja,2-4 h,Quest,8
+157,Ryuutama,Fantasía / Viajes,2,5,Baja,2-4 h,Ryuutama,8
+158,Golden Sky Stories,Fantasía / Narrativo,2,5,Baja,2-3 h,Propio,7
+159,Tenra Bansho Zero,Fantasía / Anime,3,6,Alta,3-5 h,Furyu,7
+160,Double Cross 3rd,Ciencia ficción / Anime,3,6,Alta,3-5 h,Double Cross,6
+161,Monsterhearts 2,Drama / Fantasía urbana,2,5,Media,2-4 h,PbtA,8
+162,Pasión de las Pasiones,Drama / Telenovela,2,5,Baja,2-4 h,PbtA,7
+163,Masks: A New Generation,Superhéroes,3,6,Media,2-4 h,PbtA,9
+164,Avatar Legends RPG,Fantasía / Aventuras,3,6,Media,2-4 h,PbtA,9
+165,Root: The RPG,Fantasía / Animales,3,6,Media,2-4 h,PbtA,8
+166,Wanderhome RPG,Fantasía / Viajes,2,6,Baja,2-4 h,Belonging Outside Belonging,8
+167,Vaesen RPG,Terror / Misterio,2,6,Media,2-4 h,Year Zero Engine,9
+168,Dragonbane,Fantasía,2,6,Media,2-4 h,Year Zero Engine,9
+169,Blade Runner RPG,Ciencia ficción / Misterio,2,5,Media,2-4 h,Year Zero Engine,8
+170,The Walking Dead Universe RPG,Terror / Supervivencia,2,6,Media,2-4 h,Year Zero Engine,8
+171,Avatar: Legends Starter,Fantasía,3,6,Baja,2-3 h,PbtA,7
+172,Quest Starter,Fantasía,2,6,Baja,2-3 h,Quest,7
+173,Fabula Ultima Press Start,Fantasía / JRPG,3,5,Baja,2-4 h,Fabula Ultima,8
+174,Mork Borg: Cult Heretic,Fantasía oscura,2,5,Media,2-3 h,Mork Borg,7
+175,CY_BORG,Cyberpunk / Terror,2,5,Media,2-4 h,Mork Borg,8
+176,Pirate Borg,Piratas / Fantasía,2,5,Media,2-4 h,Mork Borg,7
+177,Deathbringer,Fantasía oscura,2,6,Media,2-4 h,d20,6
+178,Dungeon Crawl Classics RPG,Fantasía,3,6,Media,2-4 h,d20,8
+179,Lamentations of the Flame Princess,Fantasía / Terror,2,6,Media,2-4 h,OSR,6
+180,Shadowdark RPG,Fantasía / Mazmorras,2,6,Media,2-4 h,d20,9
+181,Old-School Essentials Advanced,Fantasía,2,6,Media,2-4 h,OSR,8
+182,Basic Fantasy RPG 4e,Fantasía,2,6,Baja,2-4 h,d20,7
+183,Swords & Wizardry,Fantasía,2,6,Media,2-4 h,OSR,7
+184,Castles & Crusades,Fantasía,2,6,Media,2-4 h,d20,7
+185,Dungeon Crawl Classics Lankhmar,Fantasía / Espada,3,6,Media,2-4 h,d20,6
+186,Dungeon Crawl Classics Dying Earth,Fantasía / Weird,3,6,Media,2-4 h,d20,6
+187,Mausritter RPG,Fantasía / Animales,2,5,Baja,2-3 h,NSR,8
+188,Cairn RPG,Fantasía,2,5,Baja,2-3 h,NSR,8
+189,Knave 2e,Fantasía,2,6,Baja,2-4 h,OSR,8
+190,Into the Odd RPG,Fantasía / Weird,2,6,Baja,2-3 h,NSR,8
+191,Troika!,Fantasía / Weird,2,6,Media,2-4 h,Propio,8
+192,Mothership RPG 1e,Ciencia ficción / Terror,2,6,Media,2-4 h,Mothership,9
+193,Lancer RPG,Ciencia ficción / Mechas,3,6,Alta,3-5 h,Lancer,9
+194,ICON RPG,Fantasía / Mechas,3,6,Alta,3-5 h,Propio,7
+195,Beam Saber RPG,Ciencia ficción / Mechas,3,5,Media,2-4 h,Forged in the Dark,7
+196,Stars Without Number,Ciencia ficción,2,6,Media,2-4 h,OSR,9
+197,Worlds Without Number,Fantasía,2,6,Media,2-4 h,OSR,8
+198,Cities Without Number,Cyberpunk / Crimen,2,6,Media,2-4 h,OSR,7
+199,Other Dust,Postapocalíptico,2,6,Media,2-4 h,OSR,6
+200,Godbound,Fantasía / Mitos,2,6,Alta,3-5 h,OSR,7
