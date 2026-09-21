@@ -89,6 +89,4 @@ elif opcion == 2:
     genero = input("Ingrese el género: ")
     filtrar_por_genero(genero)
 
-from google.colab import files
 
-files.download("rolbot.py")
