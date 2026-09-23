@@ -42,20 +42,20 @@ def buscar_por_nombre(nombre):
     print(resultado)
 
 
-buscar_por_nombre("Dungeons & Dragons 5e")
+#buscar_por_nombre("Dungeons & Dragons 5e")
 
 
 def listar_juegos():
     print(juegos["juego"])
 
 
-listar_juegos()
+#listar_juegos()
 
 def filtrar_por_genero(genero):
     resultado = juegos[juegos["genero"] == genero]
     print(resultado)
 
-filtrar_por_genero("Terror")
+#filtrar_por_genero("Terror")
 
 # parte 5
 # menu funcional (opciones 1 y 2)
