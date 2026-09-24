@@ -102,7 +102,7 @@ elif opcion == 4:
 elif opcion == 5:
     print("Recomendaciones")
     dificultad = input("Ingrese una dificultad: ")
-    resultado = juegos[juegos[dificultad] == dificultad]
+    resultado = juegos[juegos["dificultad"] == dificultad]
     print(resultado[["juego", "genero", "dificultad", "duracion"]])
 
 elif opcion == 0:
